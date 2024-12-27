@@ -68,9 +68,11 @@ The e2e tests are using Protractor and Jasmine.
 ## Architecture
 
 - Infrastructure diagram with description
+
   ![Infrastructure diagram](./screenshots/architecture.png)
 
 - Pipeline diagram with description
+
   ![Pipeline diagram](./screenshots/pipeline.png)
 
 ## CircleCI - pipeline status:
